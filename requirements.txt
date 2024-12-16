@@ -1,3 +1,4 @@
-streamlit
-requests
-json
+streamlit 
+requests 
+boto3 
+pyhive 
