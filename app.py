@@ -22,7 +22,7 @@ USERNAME = "ibmlhadmin"
 PASSWORD = "password"
 
 # Watsonx.ai API Configuration
-WATSONX_AI_API_URL = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29"  # Replace with actual endpoint
+WATSONX_AI_API_URL = "https://us-south.ml.cloud.ibm.com"  # Replace with actual endpoint
 WATSONX_AI_API_KEY = "r6zSAPJm7t8GbkqJENPzmXPpOKokltDGcMREKRr5fWdh"  # Replace with your API key
 WATSONX_AI_PROJECT_ID = "833c9053-ef07-455e-819f-6557dea2f8bc"       # Replace with your project ID
 
